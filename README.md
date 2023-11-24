@@ -14,4 +14,11 @@ Games:
 <li>Definition of a prime number.</li>
   </ul>
   
-This project is is created during training at Hexlet, a programming online school.
+This project is is created during training at <a href="https://ru.hexlet.io/">Hexlet</a>, a programming online school.
+
+<h3>Setup</h3>
+https://github.com/scsi9/frontend-project-lvl1.git
+cd frontend-project-lvl1
+
+<h3>Run</h3>
+yarn start
