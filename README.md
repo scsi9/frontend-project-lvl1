@@ -17,7 +17,7 @@ Games:
 This project is is created during training at <a href="https://ru.hexlet.io/">Hexlet</a>, a programming online school.
 
 <h3>Setup</h3>
-https://github.com/scsi9/frontend-project-lvl1.git
+git clone https://github.com/scsi9/frontend-project-lvl1.git
 
 cd frontend-project-lvl1
 
