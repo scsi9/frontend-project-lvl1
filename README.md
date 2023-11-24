@@ -6,10 +6,11 @@
 Brain Games is a set of five console games. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered to be completed. If the answer is incorrect, the game ends and the user is prompted to try again.
 
 Games:
-
-Calculator. Arithmetic expressions to be evaluated.
-Progression. Search for missing numbers in a sequence of numbers.
-Definition of an even number.
-Finding the Greatest Common Divisor.
-Definition of a prime number.
+<ul>
+<li>Calculator. Arithmetic expressions to be evaluated.</li>
+<li>Progression. Search for missing numbers in a sequence of numbers.</li>
+<li>Definition of an even number.</li>
+<li>Finding the Greatest Common Divisor.</li>
+<li>Definition of a prime number.</li>
+  </ul>
 This project is is created during training at Hexlet, a programming online school.
