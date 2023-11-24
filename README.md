@@ -13,4 +13,5 @@ Games:
 <li>Finding the Greatest Common Divisor.</li>
 <li>Definition of a prime number.</li>
   </ul>
+  
 This project is is created during training at Hexlet, a programming online school.
