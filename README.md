@@ -29,5 +29,4 @@ cd frontend-project-lvl1
 
 ```
 yarn start
-
 ```
