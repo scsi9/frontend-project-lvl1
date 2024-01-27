@@ -26,8 +26,6 @@ cd frontend-project-lvl1
 ```
 
 <h3>Run</h3>
-
 ```
 yarn start
-
 ```
