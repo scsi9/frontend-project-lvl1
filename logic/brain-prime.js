@@ -1,5 +1,5 @@
 import randomNumber from "../random.js";
-import runGame from "../welcome.js";
+import runGame from "../bin/brain-games.js";
 
 let rules = "Answer 'yes' if given number is prime. Otherwise answer 'no'";
 

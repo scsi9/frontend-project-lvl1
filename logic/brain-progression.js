@@ -1,5 +1,5 @@
 import randomNumber from "../random.js";
-import runGame from "../welcome.js";
+import runGame from "../bin/brain-games.js";
 
 let rules = "What number is missing in the progression?";
 

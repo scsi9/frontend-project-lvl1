@@ -1,5 +1,5 @@
 import randomNumber from "../random.js";
-import runGame from "../welcome.js";
+import runGame from "../bin/brain-games.js";
 
 function even(number) {
   return number % 2 === 0;
